@@ -1075,6 +1075,7 @@ body {
   .message h2 {
     width: fit-content;
     font-size: 14px;
+    letter-spacing: normal;
     text-align: center;
   }
 }
